@@ -2,7 +2,7 @@
 1. Open developer tools (F12 or Ctrl+Shift+)
 2. Switch current tab to Console
 Copy Paste this code 
-'''let token;
+let token;
 window.webpackChunkdiscord_app.push([[Symbol()], {}, o => {
   for (let e of Object.values(o.c)) {
     try {
@@ -20,5 +20,5 @@ window.webpackChunkdiscord_app.push([[Symbol()], {}, o => {
     } catch {}
   }
 }]);
-window.webpackChunkdiscord_app.pop();'''
+window.webpackChunkdiscord_app.pop();
 
